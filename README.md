@@ -86,6 +86,7 @@ uv run run.py
 
 Provide Worker Name & HF Token if requested.
 Look for “Job received” to confirm connection 🎉
+
 ![image](https://github.com/user-attachments/assets/02a2c677-fdbc-4646-9683-32d4c4403113)
 
 ⸻
@@ -136,6 +137,7 @@ cd ~/codeassist
 git pull
 uv sync
 sudo systemctl restart docker
+
 ![image](https://github.com/user-attachments/assets/3c547aef-c59f-442e-b594-897d9c8b71b4)
 
 ✅ Your CodeAssist worker is now running 24/7, collecting Participation at zero cost.
@@ -145,5 +147,3 @@ Welcome to Gensyn 🚀
 
 
 
-
-Bunu yapmamı ister misin?
